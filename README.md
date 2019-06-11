@@ -65,10 +65,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |   x     |   x
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |   x     |   x
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |    x    |   x
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |   x     |   x
 
 ### Tier X - Programming Prep Prep
 
